@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 # <div align="center" width="50"> My Tech Stack </div>
 
 ![Python](https://img.shields.io/badge/Python-burgundy?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-violet?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-maroon?style=for-the-badge&logo=css3&logoColor=white)
