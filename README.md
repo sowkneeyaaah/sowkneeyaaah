@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # <div align="center" width="50"> Test Automation tools I use </div>
 
 ![Selenium](https://img.shields.io/badge/Selenium-purple?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-brown?style=for-the-badge&logo=cypress&logoColor=white)
+![XCTest](https://img.shields.io/badge/XCTest-brown?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-yellow?style=for-the-badge&logo=postman&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-blue?style=for-the-badge&logo=appium&logoColor=white)
 ![XCUITest](https://img.shields.io/badge/XCUITest-orange?style=for-the-badge&logo=xcuitest&logoColor=white)
