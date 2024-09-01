@@ -25,22 +25,14 @@ Here are some ideas to get you started:
 
 ![Selenium](https://img.shields.io/badge/Selenium-purple?style=for-the-badge&logo=selenium&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-brown?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-yellow?style=for-the-badge&logo=postman&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-blue?style=for-the-badge&logo=appium&logoColor=white)
-![XCUITest](https://img.shields.io/badge/XCUITest-orange?style=for-the-badge&logo=xcuitest&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/ApacheJMeter-indigo?style=for-the-badge&logo=apachejmeter&logoColor=white)
-
 # <div align="center" width="50"> My Tech Stack </div>
 
 ![Python](https://img.shields.io/badge/Python-burgundy?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-yellow?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-violet?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-maroon?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=white)
 ![Drupal 8](https://img.shields.io/badge/Drupal-green?style=for-the-badge&logo=drupal&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
-
 
 
 
