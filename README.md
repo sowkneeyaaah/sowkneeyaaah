@@ -23,16 +23,15 @@ Here are some ideas to get you started:
 
 # <div align="center" width="50"> Test Automation tools I use </div>
 
-![Selenium](https://img.shields.io/badge/Selenium-purple?style=for-the-badge&logo=selenium&logoColor=white)
+![PlayWright](https://img.shields.io/badge/PlayWright-purple?style=for-the-badge&logo=selenium&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-brown?style=for-the-badge&logo=cypress&logoColor=white)
 # <div align="center" width="50"> My Tech Stack </div>
 
-![Python](https://img.shields.io/badge/Python-burgundy?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-burgundy?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-yellow?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-violet?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-maroon?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-violet?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=white)
-![Drupal 8](https://img.shields.io/badge/Drupal-green?style=for-the-badge&logo=drupal&logoColor=white)
+
 
 
 
